@@ -4,7 +4,7 @@
 ### I'm Jeff 🌴
 
 I am a:
-- [Full-time Developer](https://jeffpalm.dev)
+- [Full-time Software Engineer](https://jeffpalm.dev)
 - [Occasional streamer](https://twitch.tv/palmytree)
 - Life long hobby hopper
 - Princess about my setup
